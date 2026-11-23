@@ -1,0 +1,75 @@
+List of Command excuted for day to day operation:-
+
+
+    1 apt install plocat
+    2  locate *.log
+    3  sudo apt install plocate
+    4  clear
+    5  locate *.log
+    6  ls -l
+    7  ls
+    8  sudo apt-get update
+    9  clear
+   10  ls
+   12  find / *.log
+   13  clear
+   14  cd /var/log
+   15  find *.log
+   16  locate *.log
+   17  history
+   18  mkdir myfiles
+   19  clear
+   20  cd ..
+   21  pwd
+   22  mkdir myfiles
+   23  ls 
+   24  tocuh myfiles/{a.txt,b.txt,c.txt}
+   29  ls
+   30  tar -cvf allfiles.tar myfiles
+   31  cd ..
+   32  tar -cvf allfiles.tar myfiles
+   33  ls
+   34  ls -l
+   35  tar -xvf allfiles.tar
+   36  ls
+   37  clear
+   38  adduser satish
+   39  su satish
+   40  clear
+   41  passwd
+   42  passwd satish
+   43  clear
+   44  userdel satish
+   45  ls
+   46  addgroup devops
+   47  cat /etc/shadow
+
+   49  clear
+   50  cat /etc/group 
+   51  adduser satish
+   52  cat /etc/user
+   53  cat /etc/passwd
+   54  getnet satish
+   55  clear
+   56  getent satish
+   57  getnet group
+   58  getent group
+   59  usermod -a -G devops satish 
+   60  getent satish
+   61  getent group
+   62  clear
+   63  chage 
+   64  manual chage
+   65  man chage
+   66  cd etc
+   67  ls -ltr
+   68  cat gshadow
+   69  openssl passwd -6 -stdin
+   70  clear
+   71  cat passwd 
+   72  cat shadow
+   73  clear
+   74  vi sudoers
+   75  clear
+   76  history
+root@practice:/etc# 
